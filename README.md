@@ -21,6 +21,56 @@ This project focuses on hands-on practice with PySpark fundamentals, covering es
   - Using the `isin()` method for multi-value filtering
   - Sorting data in ascending and descending order
 
+- **Module 3: Column Operations & Transformations**
+  - Creating new columns with calculations
+  - String manipulation (uppercase, lowercase, concatenate)
+  - Date extraction (year, month)
+  - Conditional logic with `when()`
+  - Type casting
+  - Dropping columns
+
+- **Module 4: Aggregations & Grouping**
+  - Calculating averages and sums by group
+  - Counting records
+  - Finding min/max values
+  - Counting distinct values
+  - Grouping by multiple columns
+  - Ordering aggregated results
+  - Filtering grouped results
+  - Multiple aggregations in one query
+
+- **Module 5: Joins**
+  - Inner joins
+  - Left joins
+  - Right joins
+  - Full outer joins
+  - Anti joins
+  - Semi joins
+  - Joining multiple tables
+  - Joining with multiple conditions
+  - Removing duplicates after joins
+  - Finding unmatched records
+
+- **Module 6: Window Functions**
+  - `row_number()` for sequential numbering
+  - `rank()` for ranking with gaps
+  - `dense_rank()` for ranking without gaps
+  - Running totals
+  - Moving averages
+  - `lag()` to access previous rows
+  - `lead()` to access next rows
+  - Top N per group
+  - First/last record by group
+
+- **Module 7: Date & Time Operations**
+  - Converting strings to dates
+  - Extracting year, month, day
+  - Calculating date differences
+  - Adding days and months
+  - Filtering by date range
+  - Working with timestamps
+  - Using `current_date()`
+
 ## Project Structure
 
 ```
