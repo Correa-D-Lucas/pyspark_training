@@ -71,6 +71,45 @@ This project focuses on hands-on practice with PySpark fundamentals, covering es
   - Working with timestamps
   - Using `current_date()`
 
+- **Module 8: Data Cleaning & Quality**
+  - Detecting null values
+  - Dropping null rows
+  - Filling nulls and replacing missing values
+  - Replacing null salary values with group averages
+  - Removing duplicate records
+  - Trimming whitespace
+  - Replacing values
+  - Regex-based replacements
+  - Standardizing text
+  - Detecting inconsistent rows
+
+- **Module 9: Data Persistence & File Formats**
+  - Writing DataFrames to CSV
+  - Writing DataFrames to JSON
+  - Writing DataFrames to Parquet
+  - Writing partitioned Parquet files
+  - Overwrite and append write modes
+  - Compressing Parquet output
+  - Saving selected columns only
+  - Reading saved output back
+
+- **Module 10: Performance & Caching**
+  - Caching DataFrames
+  - Persisting DataFrames
+  - Using `explain()` to inspect query plans
+  - Counting partitions
+  - Measuring execution time
+
+- **Module 11: Spark SQL & Temp Views**
+  - Creating temporary views
+  - Using `SELECT`, `WHERE`, `GROUP BY`, `HAVING`, and `ORDER BY`
+  - Performing inner joins in SQL
+  - Using window functions in SQL
+  - Writing `CASE WHEN` expressions
+  - Running subqueries
+  - Using common table expressions (CTEs)
+  - Counting distinct values
+
 ## Project Structure
 
 ```
